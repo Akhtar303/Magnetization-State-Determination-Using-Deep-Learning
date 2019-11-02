@@ -7,7 +7,8 @@ Magnetic materials and their intrinsic properties have been utilized in differen
 
 # REFERENCES
 
-Carrasquilla, J. and R. G. Melko, \Machine learning phases of matter", Nature Physics, Vol. 13,
+1. Carrasquilla, J. and R. G. Melko, \Machine learning phases of matter", Nature Physics, Vol. 13,
 431{434, 2017.
+
 2. Adly, A. A. and S. K. Abd-el-Haz, \Utilizing neural networks in magnetic media modeling
 and eld computation: A review", J. Adv. Res., Vol. 5, No. 6, 615{627, 2014.
